@@ -1,0 +1,6 @@
+{
+  "name": "MIRADA ANCESTRAL AI",
+  "description": "Explora las tradiciones de interpretación del rostro y las manos mediante una experiencia digital moderna basada en inteligencia artificial, visión por computador y contenido educativo.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Allow: /assets/
+Allow: /blog
+Allow: /analizar-rostro
+Allow: /analizar-mano
+Allow: /mian-xiang
+Allow: /quiromancia
+Allow: /informe
+
+Sitemap: https://mirada-ancestral-ai.ai.studio/sitemap.xml
